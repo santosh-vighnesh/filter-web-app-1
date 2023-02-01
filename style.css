@@ -1,21 +1,13 @@
-body{
-    background-size: cover;
+body
+{
+    background-position: cover;
 }
-.heading{
-    width: 100%;
-    margin: 0;
-    font-size: 20px;
+
+h3{
+    font-size: 25px !important;
+    color: black !important;
 }
-.note{
-    color: black;
-    font-size: 15px;
-}
-.song_name{
-    font-size: 20px;
-}
-canvas{
-    background-color: #000000;
-    border: 5px solid white;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px #73cfd8;
+canvas
+{
+    border: 4px black solid;
 }
